@@ -1,0 +1,44 @@
+Tools
+
+1) Find Acquisitions -acquisitions.py
+
+2) Crt.sh - Gather subdomains from crt.sh (Bashscript)
+
+3) crt_org.sh - Gather Assets/Subdomains from crt.sh 
+by Company Name
+
+4) Enumlivesub.sh - Subdomain enumeration script
+
+5) 1000_passwords.txt - Top passwords list
+
+6) dicc.txt - Directory and Files Brute force wordlist
+
+7) 2m-subdomains.txt - 2 million subdomains wordlist
+
+8) best-dns-wordlist.txt - DNS wordlist for Subdomains
+
+9) Subdomain_brute_2m.sh - ./subdomain_bruteforce_2m.sh subdomain.domain.com
+
+10) subdomain_bruteforce_dns.sh - ./subdomain_bruteforce_dns.sh dev.test.com
+
+11) dnscan_subdomain.sh - Created bash script for dnscan.
+The tool will output two files:
+1. dnscan_domains.txt
+2. dnscan_ip.txt (output IP Addresses)
+3. Extract the domains from dnscan_domains.txt and add them to domains.txt then remove duplicates.
+
+12) sub-subdomains.sh - Most Powerful tool (altdns) to extract sub-sub-sub Subdomains
+
+13) webscreenshot.sh - Script to take screenshot for all alive domains
+
+14) Subdomaintakeover.sh - Subdomain takeover automation scripts
+
+15) fastPortScan.sh - This is the tool to make port scanning for all domains.txt that we gather.
+It is automation script that uses naabu tool: https://github.com/projectdiscovery/naabu
+
+
+16) resolve_hosts_portscan.sh - This is the tool.
+What I mean by resolve host is extracting IP Address from the domain.
+We also can split host resolving hosts from port scanning. But I did all together in one script as kind of Automation
+
+
